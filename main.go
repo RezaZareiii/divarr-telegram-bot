@@ -13,6 +13,8 @@ import (
 
 const BotToken = "8052520945:AAHNrbby4hZIKUhRCDZtJZ7z-519MgYc7Vk"
 
+const filePath = "/data/visited_posts.txt"
+
 const ChatID = -4748240323
 
 var visitedPosts = make(map[string]struct{})
@@ -21,7 +23,7 @@ func main() {
 
 	var err error
 
-	visitedPosts, err = LoadVisitedPosts("visited_posts.txt")
+	visitedPosts, err = LoadVisitedPosts()
 	if err != nil {
 		panic(err)
 	}
@@ -31,7 +33,7 @@ func main() {
 		panic(err)
 	}
 
-	bot.Debug = true
+	bot.Debug = false
 
 	for {
 
@@ -55,18 +57,29 @@ func main() {
 				continue
 			}
 
-			time.Sleep(10 * time.Second)
+			time.Sleep(5 * time.Second)
 		}
 
-		time.Sleep(10 * time.Second)
+		time.Sleep(5 * time.Minute)
 	}
 
 	// }
 
 }
 
-func LoadVisitedPosts(filePath string) (map[string]struct{}, error) {
+func LoadVisitedPosts() (map[string]struct{}, error) {
 	visited := make(map[string]struct{})
+
+	_, err := os.Stat(filePath)
+
+	if os.IsNotExist(err) {
+		file, err := os.Create(filePath)
+		if err != nil {
+			return nil, err
+		}
+		defer file.Close()
+		return visited, nil
+	}
 
 	file, err := os.Open(filePath)
 	if err != nil {
@@ -91,14 +104,31 @@ func LoadVisitedPosts(filePath string) (map[string]struct{}, error) {
 
 func fetchNewlyAddedPosts() ([]divar.PostRowData, error) {
 
-	postTokens, err := divar.Search()
+	posts1, err := divar.Search(1)
 	if err != nil {
 		return nil, err
 	}
 
+	time.Sleep(5 * time.Second)
+
+	posts2, err := divar.Search(2)
+	if err != nil {
+		return nil, err
+	}
+
+	time.Sleep(5 * time.Second)
+
+	posts3, err := divar.Search(3)
+	if err != nil {
+		return nil, err
+	}
+
+	posts := append(posts1, posts2...)
+	posts = append(posts, posts3...)
+
 	newPosts := make([]divar.PostRowData, 0, 4)
 
-	for _, post := range postTokens {
+	for _, post := range posts {
 		if _, exists := visitedPosts[post.Token]; !exists {
 			newPosts = append(newPosts, post)
 		}
@@ -107,7 +137,7 @@ func fetchNewlyAddedPosts() ([]divar.PostRowData, error) {
 	return newPosts, nil
 }
 
-func AppendToFile(filePath, text string) error {
+func AppendToFile(text string) error {
 	// Open the file in append mode, create it if it doesn't exist
 	file, err := os.OpenFile(filePath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
@@ -127,7 +157,7 @@ func AppendToFile(filePath, text string) error {
 func SaveVisitedPosts(token string) error {
 
 	visitedPosts[token] = struct{}{}
-	err := AppendToFile("visited_posts.txt", token)
+	err := AppendToFile(token)
 	if err != nil {
 		return err
 	}

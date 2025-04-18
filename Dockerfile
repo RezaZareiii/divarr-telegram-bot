@@ -7,6 +7,10 @@ COPY go.mod ./
 
 COPY go.sum ./
 
+RUN mkdir -p /data
+
+VOLUME /data
+
 RUN go mod download
 
 COPY . ./

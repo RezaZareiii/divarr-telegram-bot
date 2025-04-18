@@ -6,7 +6,7 @@ services:
     restart: unless-stopped
     image: divarbot_image
     volumes:
-      - logfile_volume:/var/lib/mysql
+      - logfile_volume:/data
 
 volumes:
   logfile_volume:

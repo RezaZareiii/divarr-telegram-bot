@@ -10,7 +10,7 @@ import (
 
 const divarApiUrl = "https://api.divar.ir/v8/postlist/w/search"
 
-func Search() ([]PostRowData, error) {
+func Search(page int) ([]PostRowData, error) {
 
 	client := &http.Client{
 		Timeout: 10 * time.Second,
@@ -19,6 +19,11 @@ func Search() ([]PostRowData, error) {
 	requestBody := map[string]interface{}{
 		"city_ids": []string{
 			CityMap[tehran],
+		},
+		"pagination_data": map[string]interface{}{
+			"@type":      "type.googleapis.com/post_list.PaginationData",
+			"page":       page,
+			"layer_page": page,
 		},
 		"source_view":            "FILTER",
 		"disable_recommendation": false,
