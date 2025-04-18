@@ -37,12 +37,12 @@ func Search(page int) ([]PostRowData, error) {
 				"data": map[string]interface{}{
 					"credit": map[string]interface{}{
 						"number_range": map[string]interface{}{
-							"maximum": 500000000,
+							"maximum": 600000000,
 						},
 					},
 					"rent": map[string]interface{}{
 						"number_range": map[string]interface{}{
-							"maximum": 30000000,
+							"maximum": 31000000,
 						},
 					},
 					"districts": map[string]interface{}{
@@ -52,6 +52,20 @@ func Search(page int) ([]PostRowData, error) {
 								districtsMap[ponak],
 								districtsMap[almahdi],
 								districtsMap[janatAbadShomali],
+								districtsMap[parvaz],
+								districtsMap[farahzad],
+								districtsMap[shahrakNafte],
+								districtsMap[shahrakKohsar],
+								districtsMap[shahrakGharb],
+								districtsMap[shahin],
+								districtsMap[ivanak],
+								districtsMap[daria],
+								districtsMap[sepahr],
+								districtsMap[Asman],
+								districtsMap[vanak],
+								districtsMap[gandi],
+								districtsMap[jordan],
+								districtsMap[valenjak],
 							},
 						},
 					},

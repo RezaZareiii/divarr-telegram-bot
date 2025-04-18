@@ -104,29 +104,21 @@ func LoadVisitedPosts() (map[string]struct{}, error) {
 
 func fetchNewlyAddedPosts() ([]divar.PostRowData, error) {
 
-	posts1, err := divar.Search(1)
-	if err != nil {
-		return nil, err
+	posts := make([]divar.PostRowData, 0, 200)
+
+	for i := 0; i < 10; i++ {
+		np, err := divar.Search(i + 1)
+		if err != nil {
+			return nil, err
+		}
+
+		posts = append(posts, np...)
+
+		time.Sleep(5 * time.Second)
+
 	}
 
-	time.Sleep(5 * time.Second)
-
-	posts2, err := divar.Search(2)
-	if err != nil {
-		return nil, err
-	}
-
-	time.Sleep(5 * time.Second)
-
-	posts3, err := divar.Search(3)
-	if err != nil {
-		return nil, err
-	}
-
-	posts := append(posts1, posts2...)
-	posts = append(posts, posts3...)
-
-	newPosts := make([]divar.PostRowData, 0, 4)
+	newPosts := make([]divar.PostRowData, 0, 20)
 
 	for _, post := range posts {
 		if _, exists := visitedPosts[post.Token]; !exists {
