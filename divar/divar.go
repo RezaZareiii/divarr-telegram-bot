@@ -10,58 +10,6 @@ import (
 
 const divarApiUrl = "https://api.divar.ir/v8/postlist/w/search"
 
-/*
-
- */
-
-/*
-{
-    "city_ids": [
-        "1"
-    ],
-    "source_view": "FILTER",
-    "disable_recommendation": false,
-    "map_state": {
-        "camera_info": {
-            "bbox": {}
-        }
-    },
-    "search_data": {
-        "form_data": {
-            "data": {
-                "districts": {
-                    "repeated_string": {
-                        "value": [
-                            "82",
-                            "143",
-                            "145",
-                            "49"
-                        ]
-                    }
-                },
-                "category": {
-                    "str": {
-                        "value": "apartment-rent"
-                    }
-                }
-            }
-        },
-        "server_payload": {
-            "@type": "type.googleapis.com/widgets.SearchData.ServerPayload",
-            "additional_form_data": {
-                "data": {
-                    "sort": {
-                        "str": {
-                            "value": "sort_date"
-                        }
-                    }
-                }
-            }
-        }
-    }
-}
-*/
-
 func Search() ([]PostRowData, error) {
 
 	client := &http.Client{

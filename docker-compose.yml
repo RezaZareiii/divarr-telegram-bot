@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  divarbot:
+    build: .
+    container_name: divarbot_container
+    restart: unless-stopped
+    image: divarbot_image
+    volumes:
+      - logfile_volume:/var/lib/mysql
+
+volumes:
+  logfile_volume:
