@@ -43,6 +43,15 @@ func main() {
 			continue
 		}
 
+		msg := tgbotapi.NewMessage(ChatID, fmt.Sprintf("found %d new posts", len(newPosts)))
+
+		if _, err := bot.Send(msg); err != nil {
+			fmt.Println("Error sending message:", err)
+			continue
+		}
+
+		time.Sleep(5 * time.Second)
+
 		for _, post := range newPosts {
 			msg := tgbotapi.NewMessage(ChatID, fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s\n\nhttps://divar.ir/v/%s", post.Title, post.Rent, post.Credit, post.Location, post.Token))
 
