@@ -1,0 +1,33 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 929687958,
+            "message": {
+                "message_id": 1,
+                "from": {
+                    "id": 445093827,
+                    "is_bot": false,
+                    "first_name": "Reza",
+                    "username": "the_reza_z",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 445093827,
+                    "first_name": "Reza",
+                    "username": "the_reza_z",
+                    "type": "private"
+                },
+                "date": 1744948511,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        }
+    ]
+}

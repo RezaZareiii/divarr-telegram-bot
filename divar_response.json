@@ -1,0 +1,2707 @@
+{
+ "list_top_widgets": [
+  {
+   "widget_type": "POST_LIST_HEADLINE",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostListHeadline",
+    "text": "اجاره و رهن آپارتمان، خانه و سوییت در پونک و ۳ محلهٔ دیگر تهران"
+   }
+  }
+ ],
+ "list_widgets": [
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "اجاره آپارتمان ۶۰",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaB81XoI",
+      "web_info": {
+       "title": "اجاره آپارتمان ۶۰",
+       "district_persian": "جنت\u200cآباد شمالی",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/T3W8Oqa9EtJFixpAMaeMqQ/7c09a4af-b34c-4f87-97f0-a3c3c731e826.webp",
+    "bottom_description_text": "۸ ساعت پیش در جنت\u200cآباد شمالی",
+    "middle_description_text": "اجاره: ۵,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 1,
+    "top_description_text": "ودیعه: ۳۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۱",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaB81XoI"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaB81XoI",
+      "index": 0,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T20:19:33.966097Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "همخونه همخانه میپذیرم",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaBUkwu1",
+      "web_info": {
+       "title": "همخونه همخانه میپذیرم",
+       "district_persian": "جنت\u200cآباد شمالی",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/UqgkHB6Ja4ggmZtcBiLY8Q/1b8780ad-164f-4c4c-a3b8-eb1b5901b8ae.webp",
+    "bottom_description_text": "۱۰ ساعت پیش در جنت\u200cآباد شمالی",
+    "middle_description_text": "اجاره: ۱,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 1,
+    "top_description_text": "ودیعه: ۱۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۱",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaBUkwu1"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaBUkwu1",
+      "index": 1,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T18:18:50.206581Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "تاپ\u200cلوکیشن/۵۰متر ۱خواب/فول امکانات",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaB0zdLu",
+      "web_info": {
+       "title": "تاپ\u200cلوکیشن/۵۰متر ۱خواب/فول امکانات",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/4wU1jCuXXOF2LD7NcsTQJA/250e9c11-f56c-494e-940f-9685357b17ad.webp",
+    "bottom_description_text": "۱۱ ساعت پیش در پونک",
+    "middle_description_text": "اجاره: ۲۰,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 2,
+    "top_description_text": "ودیعه: ۲۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۲",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaB0zdLu"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaB0zdLu",
+      "index": 2,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ]
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T17:42:26.301976Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "۶۸ متر/نقلی / باکس پونک",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaBUiLFa",
+      "web_info": {
+       "title": "۶۸ متر/نقلی / باکس پونک",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/vbHXggGTNF_jXH_XBLDDSQ/176fecb2-632a-46fa-b49f-0c922f64aa76.webp",
+    "bottom_description_text": "خانم شهابی در پونک",
+    "middle_description_text": "اجاره: ۲۱,۵۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 1,
+    "top_description_text": "ودیعه: ۳۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۱",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaBUiLFa"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaBUiLFa",
+      "index": 3,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T15:59:03.812399Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "اجاره آپارتمان ۷۵ متری ۲ خواب فول امکانات در پونک",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaBMi9Vn",
+      "web_info": {
+       "title": "اجاره آپارتمان ۷۵ متری ۲ خواب فول امکانات در پونک",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/VBI_rgpd6jwR2kEtxzHt7A/23258a53-2da4-4b4b-b01b-15fe98f6b4e7.webp",
+    "bottom_description_text": "آژانس املاک بزرگ پازل شعبه ۲ در پونک",
+    "middle_description_text": "اجاره: ۱۸,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 5,
+    "top_description_text": "ودیعه: ۳۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۵",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaBMi9Vn"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaBMi9Vn",
+      "index": 4,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T15:54:07.177006Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "همخونه شاغل معتبر قابل اعتماد همخانه آقا",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaBACopm",
+      "web_info": {
+       "title": "همخونه شاغل معتبر قابل اعتماد همخانه آقا",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/sOxIhAvUIO09FQ-rOM5bZA/bc04cb91-83d7-4bf3-8201-babed5a1291b.webp",
+    "bottom_description_text": "۱۳ ساعت پیش در پونک",
+    "middle_description_text": "اجاره: ۱۰,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 1,
+    "top_description_text": "ودیعه: ۱۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۱",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaBACopm"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaBACopm",
+      "index": 5,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T15:39:42.988473Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "INSET_BANNER",
+   "data": {
+    "@type": "type.googleapis.com/widgets.InsetBannerData",
+    "desktop_image_url": "https://a-banners.divarcdn.com/ssp/ads/media/image/bfe35385-209b-4fce-a57d-c06904c9a026.jpg",
+    "tablet_image_url": "https://a-banners.divarcdn.com/ssp/ads/media/image/b2c1d67c-51a2-4cf8-a82f-fab736dee568.jpg",
+    "mobile_image_url": "https://a-banners.divarcdn.com/ssp/ads/media/image/dc6bcede-ec7d-47a0-b35b-b8769ac3fcde.jpg",
+    "action": {
+     "type": "OPEN_WEB_PAGE",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.OpenWebPagePayload",
+      "link": "https://a-banners.divar.ir/auction/?ext_link_data=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHRlcm5hbFVybCI6eyJTY2hlbWUiOiJodHRwcyIsIk9wYXF1ZSI6IiIsIlVzZXIiOm51bGwsIkhvc3QiOiJ3d3cueWVrdGFuZXQuY29tIiwiUGF0aCI6Ii9hZHZlcnRpc2luZy1vbi1kaXZhciIsIlJhd1BhdGgiOiIiLCJPbWl0SG9zdCI6ZmFsc2UsIkZvcmNlUXVlcnkiOmZhbHNlLCJSYXdRdWVyeSI6ImV2ZW50UGFyYW1zPVx1MDAyNnV0bV9zb3VyY2U9eWVrdGFuZXRcdTAwMjZ1dG1fY2FtcGFpZ249YWR2XzEzMjU0M18zNjUxMjM2XHUwMDI2dXRtX21lZGl1bT1kaXZhclx1MDAyNnV0bV90ZXJtPXluX21vYl8yMDM4NjhcdTAwMjZ1dG1fY29udGVudD1hcGFydG1lbnQtcmVudFx1MDAyNnV0bV95bl9hZGl2ZXJ5PXYxLU1UTXlOVFF6T2pZMU5UTTVNem95TURNNE5qZzZNVGd5TVRVNk5EY3lORFE2Wm1VMU1EZGpZemN0TlRNeU1TMDFaVGxpTFRobE9Ea3RNVGN3WWpNNU16a3lPVGhrT2pFM05EUTVOVEE0TWpNNk9qQTZZM0J0T2pVM056YzRPakV5TURBNk1UTXpORHBrWmpZMk1UZzVPQzB6TVRVMExUUmxZbVl0T0RZNFl5MDJOemRtTVdRNFpEVTVNRGc2WVdScGRtVnllVHBWVGt0T1QxZE9PbVpoYkhObFx1MDAyNnV0bV95bl9kYXRhPXY2LmkuMWNtLmNVRTEuSURYLm1zYS5lVFguZmU1MDdjYzctNTMyMS01ZTliLThlODktMTcwYjM5MzkyOThkLjg4NmYzMGNkLWM2MTgtNDdkOS1hMjc4LTcxZDdkYTc0NTM4Yy50dy5XMTA9LlcxMD0uN2FkYTEyY2QtNThlOC00NmJhLTkyYjUtNzI4ZjhiZjlkYjdhLk5BVElWRS5tLmZhbHNlXHUwMDI2dXRtX3luX2RpdmFyPXYxLU1UYzBORGsxTURneU16b3hNekkxTkRNNk5qVTFNemt6T2pJd016ZzJPRHBoY0dGeWRHMWxiblF0Y21WdWREbzZNVG93T2pBNk5EY3lORFFcdTAwMjZ1dG1feW49djQtTVRvMk5UVXpPVE02TVRNeU5UUXpPakU2TVRveE9qSSIsIkZyYWdtZW50IjoiIiwiUmF3RnJhZ21lbnQiOiIifSwiYWRJZCI6IjE2MTY4ZjVjLWM3YmMtNGZkZi05MDcwLWFlMTA0M2EzZmVhZSIsImV2ZW50VHlwZSI6NTAxfQ.4RwME6nNqu-2CLcE08adeQ7gp9XYeG8vO-l2N3QuyU4",
+      "nofollow": true
+     }
+    },
+    "padded": true,
+    "desktop_aspect_ratio": "_16x9",
+    "tablet_aspect_ratio": "_5x1",
+    "mobile_aspect_ratio": "_4x1",
+    "on_event_callback": {
+     "rest_request_path": "/v8/ad-auction/event-callback/inset-banner",
+     "events": [
+      "LOADED_CACHE",
+      "LOADED",
+      "IMPRESSION",
+      "VIEWABLE_MRC100",
+      "CLICKED",
+      "VIEWABLE_MRC50"
+     ],
+     "request_data": {
+      "@type": "type.googleapis.com/ad_auction.EventCallbackData",
+      "ad_instance_id": "16168f5c-c7bc-4fdf-9070-ae1043a3feae"
+     }
+    },
+    "banner_overlay": {
+     "action": {
+      "type": "OPEN_WEB_PAGE",
+      "payload": {
+       "@type": "type.googleapis.com/widgets.OpenWebPagePayload",
+       "link": "https://divar.ir/help/articles/banner-promotion",
+       "page_type": "SAME_PAGE",
+       "nofollow": true
+      }
+     },
+     "action_icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/unknown/v1/info_outline.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/unknown/v1/info_outline.png",
+      "icon_name": "INFO_OUTLINE"
+     },
+     "tag_title": "تبلیغ",
+     "tag_icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/yektanet.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/yektanet.png",
+      "icon_name": "YEKTANET",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "action_title": "تبلیغ",
+     "action_secondary_icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/yektanet.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/v1/yektanet.png",
+      "icon_name": "YEKTANET",
+      "icon_color": "ICON_SECONDARY"
+     }
+    },
+    "presentation_style": "PRESENTATION_STYLE_DEFAULT",
+    "desktop_aspect_ratio_float": 6.76190472,
+    "tablet_aspect_ratio_float": 4.57142878,
+    "mobile_aspect_ratio_float": 1.78260875,
+    "content_type": "CONTENT_TYPE_IMAGE"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.AdsBannerWidgetInfo",
+      "ad_id": "16168f5c-c7bc-4fdf-9070-ae1043a3feae"
+     },
+     "item_type": {
+      "type": "ADS_BANNER_WIDGET"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "اجاره آپارتمان ۷۵ متری ۲ خوابه در پونک",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaBwxfmz",
+      "web_info": {
+       "title": "اجاره آپارتمان ۷۵ متری ۲ خوابه در پونک",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/SkSDjJ2pL1niyyGcfWLTAw/9663a7e0-df27-4080-9aff-6b267ea7fa2d.webp",
+    "bottom_description_text": "آژانس املاک اسکان غرب در پونک",
+    "middle_description_text": "اجاره: ۲۵,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 3,
+    "top_description_text": "ودیعه: ۳۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۳",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaBwxfmz"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaBwxfmz",
+      "index": 6,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T15:27:11.409247Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "90متر *1 خواب *زیر همکف * تخلیه * شهرک مبعث",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaBoxaNG",
+      "web_info": {
+       "title": "90متر *1 خواب *زیر همکف * تخلیه * شهرک مبعث",
+       "district_persian": "جنت\u200cآباد شمالی",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/s4fB5XbZJrDWrDUhbABfSQ/c58be5c9-352b-46f8-b03f-b0414bd0502e.webp",
+    "bottom_description_text": "مشاور حسن متین در جنت\u200cآباد شمالی",
+    "middle_description_text": "اجاره: ۱۳,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 1,
+    "top_description_text": "ودیعه: ۲۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۱",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaBoxaNG"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaBoxaNG",
+      "index": 7,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ]
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T15:15:58.907228Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "آپارتمان ۶۰ متر ۱ خواب/غرق نور",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaAkLLL_",
+      "web_info": {
+       "title": "آپارتمان ۶۰ متر ۱ خواب/غرق نور",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/gDEmo2M7Ly-l3uek3b2mEQ/66aa96a7-3118-4744-bd4b-0d4b9f9fb71c.webp",
+    "bottom_description_text": "آژانس املاک بزرگ مهستان در پونک",
+    "middle_description_text": "اجاره: ۱۴,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 1,
+    "top_description_text": "ودیعه: ۵۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۱",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaAkLLL_"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaAkLLL_",
+      "index": 8,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T14:48:11.584535Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "۷۵متر۱خواب خیابان فکوری",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaBcAqeT",
+      "web_info": {
+       "title": "۷۵متر۱خواب خیابان فکوری",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/7KUDlR1_VBNyAxiz2G-6IA/9feb69d5-842a-4a59-aa38-3eb1de352ada.webp",
+    "bottom_description_text": "آژانس اتحاد در پونک",
+    "middle_description_text": "اجاره: ۲۶,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 8,
+    "top_description_text": "ودیعه: ۴۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۸",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaBcAqeT"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaBcAqeT",
+      "index": 9,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T13:56:16.278016Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "اجاره واحد ۶۷ متری",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaBAQGnx",
+      "web_info": {
+       "title": "اجاره واحد ۶۷ متری",
+       "district_persian": "جنت\u200cآباد شمالی",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/OTZUBWr0hxsvKJ1o8toSlg/e624ada6-d033-45b0-80ba-85ec0154ebc7.webp",
+    "bottom_description_text": "۱۵ ساعت پیش در جنت\u200cآباد شمالی",
+    "middle_description_text": "اجاره: ۱۴,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 9,
+    "top_description_text": "ودیعه: ۳۵۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۹",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaBAQGnx"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaBAQGnx",
+      "index": 10,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T13:21:40.791785Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "اجاره آپارتمان ۷۰ متری ۱ خوابه در المهدی",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "wZ-fKB4-",
+      "web_info": {
+       "title": "اجاره آپارتمان ۷۰ متری ۱ خوابه در المهدی",
+       "district_persian": "المهدی",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/2-0i0QvniPK0d9bnNuMlEA/377585fe-e77c-4f20-927e-1945a6df1bb7.webp",
+    "bottom_description_text": "در المهدی",
+    "red_text": "نردبان شده",
+    "middle_description_text": "اجاره: ۲۵,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 5,
+    "top_description_text": "ودیعه: ۳۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۵",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "wZ-fKB4-"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "wZ-fKB4-",
+      "index": 11,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T13:20:02.747571Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "۶۰متر۱خواب فول امکانات مهستان",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "wZ3P72A3",
+      "web_info": {
+       "title": "۶۰متر۱خواب فول امکانات مهستان",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/l0aF6hzrCoBXz4QpFYU-IA/266cfa92-3244-407a-af90-f6e494c7bdc7.webp",
+    "bottom_description_text": "آژانس املاک بزرگ مهستان در پونک",
+    "red_text": "نردبان شده",
+    "middle_description_text": "اجاره: ۲۲,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 5,
+    "top_description_text": "ودیعه: ۱۶۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۵",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "wZ3P72A3"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "wZ3P72A3",
+      "index": 12,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T13:10:59.415196Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "۸۰متر ۲خواب پونک فکوری",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaAw_Els",
+      "web_info": {
+       "title": "۸۰متر ۲خواب پونک فکوری",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/U0RRta1oz7VQEajouqe37w/b289c424-d2d6-40c7-b60b-19c6a993878c.webp",
+    "bottom_description_text": "آژانس مسکن بزرگ تشریفات در پونک",
+    "middle_description_text": "اجاره: ۳۰,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 3,
+    "top_description_text": "ودیعه: ۳۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۳",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaAw_Els"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaAw_Els",
+      "index": 13,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T13:04:48.138454Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "۱۰۵متر / ۲خواب / سردار جنوب",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaAgfRUR",
+      "web_info": {
+       "title": "۱۰۵متر / ۲خواب / سردار جنوب",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/OZv4t94YbCN5BrDmgeucTw/4528ee89-8edf-4fe8-9968-1d6400daed7b.webp",
+    "bottom_description_text": "آژانس املاک یاس(پشتیبانی) در پونک",
+    "middle_description_text": "اجاره: ۲۵,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 6,
+    "top_description_text": "ودیعه: ۵۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۶",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaAgfRUR"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaAgfRUR",
+      "index": 14,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T12:54:34.137065Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "اجاره آپارتمان ۸۸ متری ۲ خوابه در پونک",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "wZ7Xpubu",
+      "web_info": {
+       "title": "اجاره آپارتمان ۸۸ متری ۲ خوابه در پونک",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/7AeQi0UHLnx_uHpEAGD-Xw/17997b95-3fe9-487e-8d1b-71c971a7a4a6.webp",
+    "bottom_description_text": "آژانس املاک افرا    تخصصی و حرفه ای مالک شوید در پونک",
+    "red_text": "نردبان شده | فوری ",
+    "middle_description_text": "اجاره: ۳۰,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 5,
+    "top_description_text": "ودیعه: ۵۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۵",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "wZ7Xpubu"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "wZ7Xpubu",
+      "index": 15,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ]
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T12:54:23.878022Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "۲۱۰ متر سه خوابه/شهرک هما/مشاعات کامل رفاهی",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "wZpyf7Rb",
+      "web_info": {
+       "title": "۲۱۰ متر سه خوابه/شهرک هما/مشاعات کامل رفاهی",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/afra/webp_thumbnail/AmOwBUwylu2QnXfNwLHHkw/418cfbed-3c32-40d2-9b4c-e705af4b4763.webp",
+    "bottom_description_text": "آژانس مشاورین املاک بردیا شعبه ۲ در پونک",
+    "red_text": "نردبان شده",
+    "middle_description_text": "اجاره: ۱۱۱,۱۱۱ تومان",
+    "has_divider": true,
+    "image_count": 10,
+    "top_description_text": "ودیعه: ۱,۱۱۱,۱۱۱ تومان",
+    "image_top_left_tag": {
+     "text": "۱۰",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "wZpyf7Rb"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "wZpyf7Rb",
+      "index": 16,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T12:48:49.668335Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "۸۵متر/۲خواب/ خوش نقشه / جنت آباد شمالی",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaAQtSZH",
+      "web_info": {
+       "title": "۸۵متر/۲خواب/ خوش نقشه / جنت آباد شمالی",
+       "district_persian": "جنت\u200cآباد شمالی",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/OTY1kiqHVVOd28O1X4F1rA/7c03298b-5611-4b05-a7fa-4e282219c0cd.webp",
+    "bottom_description_text": "آژانس املاک بین الملل در جنت\u200cآباد شمالی",
+    "middle_description_text": "اجاره: ۲۸,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 4,
+    "top_description_text": "ودیعه: ۵۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۴",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaAQtSZH"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaAQtSZH",
+      "index": 17,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T12:31:39.622479Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "ZERO_HEIGHT_LOGGER_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.ZeroHeightLoggerRowData"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.AdsBannerPotentialImpressionInfo",
+      "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+      "offset": 18
+     },
+     "item_type": {
+      "type": "ADS_BANNER_POTENTIAL_IMPRESSION"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "پونک سردار جنوب۵۵ متر یک خواب",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaAgeT0e",
+      "web_info": {
+       "title": "پونک سردار جنوب۵۵ متر یک خواب",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "bottom_description_text": "۱۷ ساعت پیش در پونک",
+    "middle_description_text": "اجاره: ۱۰,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "top_description_text": "ودیعه: ۴۰۰,۰۰۰,۰۰۰ تومان",
+    "token": "AaAgeT0e"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaAgeT0e",
+      "index": 18,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T11:39:44.387492Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "۵۸ متر ۱ خواب / فول امکانات / ۶ ساله / روبه آفتاب",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaAU-sXj",
+      "web_info": {
+       "title": "۵۸ متر ۱ خواب / فول امکانات / ۶ ساله / روبه آفتاب",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "bottom_description_text": "حامدی در پونک",
+    "middle_description_text": "اجاره: ۲۶,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "top_description_text": "ودیعه: ۲۰۰,۰۰۰,۰۰۰ تومان",
+    "token": "AaAU-sXj"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaAU-sXj",
+      "index": 19,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T11:38:12.844584Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "اپارتمان ۷۰ متری / دو خواب / پونک",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "wZ_LnDnp",
+      "web_info": {
+       "title": "اپارتمان ۷۰ متری / دو خواب / پونک",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/VpFGAqjXey3okXAr725eZQ/2862a4c0-1df6-40fd-8a1e-8f042b1414d6.webp",
+    "bottom_description_text": "آژانس املاک بزرگ امیران در پونک",
+    "red_text": "نردبان شده",
+    "middle_description_text": "اجاره: ۲۳,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 4,
+    "top_description_text": "ودیعه: ۲۵۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۴",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "wZ_LnDnp"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "wZ_LnDnp",
+      "index": 20,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T11:29:13.133106Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "75متر /دو خواب /فردوس شرق",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaA4tcwF",
+      "web_info": {
+       "title": "75متر /دو خواب /فردوس شرق",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/AXjfekCc5LhMv7zP4fkTfQ/6e9ba844-f8ca-40b9-a949-573f1ff07d51.webp",
+    "bottom_description_text": "آژانس بزرگ دیپلمات در پونک",
+    "middle_description_text": "اجاره: ۲۰,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 1,
+    "top_description_text": "ودیعه: ۵۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۱",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaA4tcwF"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaA4tcwF",
+      "index": 21,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "cities": [
+         "1"
+        ],
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        }
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T10:58:14.781462Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "۶۵ متر فول امکانات/مناسب زوج مجرد/پونک(سردار جنگل)",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "wZ_PqGuO",
+      "web_info": {
+       "title": "۶۵ متر فول امکانات/مناسب زوج مجرد/پونک(سردار جنگل)",
+       "district_persian": "پونک",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/Z0wv8ZyXkhkWYCgwHf5xZA/75b3e675-ab66-4584-904d-2162bbad4ef8.webp",
+    "bottom_description_text": "آژانس بزرگ پونک در پونک",
+    "red_text": "نردبان شده",
+    "middle_description_text": "اجاره: ۱۲,۰۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 6,
+    "top_description_text": "ودیعه: ۵۰۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۶",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "wZ_PqGuO"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "wZ_PqGuO",
+      "index": 22,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ]
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T10:55:37.058841Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  },
+  {
+   "widget_type": "POST_ROW",
+   "data": {
+    "@type": "type.googleapis.com/widgets.PostRowData",
+    "title": "95متر دو خوابه /جنت آباد",
+    "action": {
+     "type": "VIEW_POST",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.ViewPostPayload",
+      "token": "AaAoMJ7H",
+      "web_info": {
+       "title": "95متر دو خوابه /جنت آباد",
+       "district_persian": "جنت\u200cآباد شمالی",
+       "city_persian": "تهران"
+      }
+     }
+    },
+    "image_url": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/wdWmlJ27kzUDd91_io170g/431c4435-54e7-4d4d-9f05-5d6595819308.webp",
+    "bottom_description_text": "آژانس مسکن بزرگ ماد در جنت\u200cآباد شمالی",
+    "middle_description_text": "اجاره: ۲۴,۵۰۰,۰۰۰ تومان",
+    "has_divider": true,
+    "image_count": 7,
+    "top_description_text": "ودیعه: ۳۵۰,۰۰۰,۰۰۰ تومان",
+    "image_top_left_tag": {
+     "text": "۷",
+     "icon": {
+      "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/camera.png",
+      "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/white_primary/v1/camera.png",
+      "icon_name": "CAMERA",
+      "icon_color": "WHITE_PRIMARY"
+     },
+     "is_icon_left": true
+    },
+    "token": "AaAoMJ7H"
+   },
+   "action_log": {
+    "server_side_info": {
+     "info": {
+      "@type": "type.googleapis.com/action_log.PostItemInfo",
+      "post_token": "AaAoMJ7H",
+      "index": 23,
+      "post_type": "SEARCH",
+      "list_type": "PAGE",
+      "source_page": "POST_LIST_PAGE",
+      "extra_data": {
+       "@type": "type.googleapis.com/action_log.PostItemInfo.SearchExtraData",
+       "jli": {
+        "rent": {
+         "max": 30000000
+        },
+        "credit": {
+         "max": 500000000
+        },
+        "sort": {
+         "value": "sort_date"
+        },
+        "category": {
+         "value": "apartment-rent"
+        },
+        "districts": {
+         "vacancies": [
+          "82",
+          "143",
+          "145",
+          "49"
+         ]
+        },
+        "cities": [
+         "1"
+        ]
+       },
+       "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+       "search_data": {
+        "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+        "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+        "cities": [
+         "1"
+        ],
+        "query_input_type": "TEXT"
+       }
+      },
+      "sort_date": "2025-04-17T09:33:29.147655Z"
+     },
+     "item_type": {
+      "type": "POST_ITEM"
+     }
+    },
+    "enabled": true
+   }
+  }
+ ],
+ "search_data": {
+  "form_data": {
+   "data": {
+    "rent": {
+     "number_range": {
+      "maximum": "30000000"
+     }
+    },
+    "credit": {
+     "number_range": {
+      "maximum": "500000000"
+     }
+    },
+    "districts": {
+     "repeated_string": {
+      "value": [
+       "82",
+       "143",
+       "145",
+       "49"
+      ]
+     }
+    },
+    "category": {
+     "str": {
+      "value": "apartment-rent"
+     }
+    }
+   }
+  },
+  "server_payload": {
+   "@type": "type.googleapis.com/widgets.SearchData.ServerPayload",
+   "additional_form_data": {
+    "data": {
+     "sort": {
+      "str": {
+       "value": "sort_date"
+      }
+     }
+    }
+   }
+  }
+ },
+ "action_log": {
+  "server_side_info": {
+   "info": {
+    "@type": "type.googleapis.com/action_log.PostListLoadPageInfo",
+    "cities": [
+     "1"
+    ],
+    "current_tab": "default",
+    "search_data": {
+     "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"apartment-rent\"}},\"credit\":{\"number_range\":{\"maximum\":\"500000000\"}},\"districts\":{\"repeated_string\":{\"value\":[\"82\",\"143\",\"145\",\"49\"]}},\"rent\":{\"number_range\":{\"maximum\":\"30000000\"}}}}",
+     "server_payload_json": "{\"@type\":\"type.googleapis.com/widgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"sort_date\"}}}}}",
+     "cities": [
+      "1"
+     ],
+     "query_input_type": "TEXT"
+    },
+    "tokens": [
+     "AaB81XoI",
+     "AaBUkwu1",
+     "AaB0zdLu",
+     "AaBUiLFa",
+     "AaBMi9Vn",
+     "AaBACopm",
+     "AaBwxfmz",
+     "AaBoxaNG",
+     "AaAkLLL_",
+     "AaBcAqeT",
+     "AaBAQGnx",
+     "wZ-fKB4-",
+     "wZ3P72A3",
+     "AaAw_Els",
+     "AaAgfRUR",
+     "wZ7Xpubu",
+     "wZpyf7Rb",
+     "AaAQtSZH",
+     "AaAgeT0e",
+     "AaAU-sXj",
+     "wZ_LnDnp",
+     "AaA4tcwF",
+     "wZ_PqGuO",
+     "AaAoMJ7H"
+    ],
+    "has_next_page": true,
+    "pelle": {
+     "elastic": {}
+    },
+    "last_post_date_epoch": "1744882409147655",
+    "search_id": "7618278403b390e2f1a76e44bfcafff9",
+    "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152",
+    "source_view": "FILTER",
+    "posts_metadata": [
+     {
+      "token": "AaB81XoI",
+      "sort_date": "1744921173966097",
+      "source": "f"
+     },
+     {
+      "token": "AaBUkwu1",
+      "sort_date": "1744913930206581",
+      "source": "f"
+     },
+     {
+      "token": "AaB0zdLu",
+      "sort_date": "1744911746301976",
+      "source": "f"
+     },
+     {
+      "token": "AaBUiLFa",
+      "sort_date": "1744905543812399",
+      "source": "f"
+     },
+     {
+      "token": "AaBMi9Vn",
+      "sort_date": "1744905247177006",
+      "source": "f"
+     },
+     {
+      "token": "AaBACopm",
+      "sort_date": "1744904382988473",
+      "source": "f"
+     },
+     {
+      "token": "AaBwxfmz",
+      "sort_date": "1744903631409247",
+      "source": "f"
+     },
+     {
+      "token": "AaBoxaNG",
+      "sort_date": "1744902958907228",
+      "source": "f"
+     },
+     {
+      "token": "AaAkLLL_",
+      "sort_date": "1744901291584535",
+      "source": "f"
+     },
+     {
+      "token": "AaBcAqeT",
+      "sort_date": "1744898176278016",
+      "source": "f"
+     },
+     {
+      "token": "AaBAQGnx",
+      "sort_date": "1744896100791785",
+      "source": "f"
+     },
+     {
+      "token": "wZ-fKB4-",
+      "sort_date": "1744896002747571",
+      "source": "f"
+     },
+     {
+      "token": "wZ3P72A3",
+      "sort_date": "1744895459415196",
+      "source": "f"
+     },
+     {
+      "token": "AaAw_Els",
+      "sort_date": "1744895088138454",
+      "source": "f"
+     },
+     {
+      "token": "AaAgfRUR",
+      "sort_date": "1744894474137065",
+      "source": "f"
+     },
+     {
+      "token": "wZ7Xpubu",
+      "sort_date": "1744894463878022",
+      "source": "f"
+     },
+     {
+      "token": "wZpyf7Rb",
+      "sort_date": "1744894129668335",
+      "source": "f"
+     },
+     {
+      "token": "AaAQtSZH",
+      "sort_date": "1744893099622479",
+      "source": "f"
+     },
+     {
+      "token": "AaAgeT0e",
+      "sort_date": "1744889984387492",
+      "source": "f"
+     },
+     {
+      "token": "AaAU-sXj",
+      "sort_date": "1744889892844584",
+      "source": "f"
+     },
+     {
+      "token": "wZ_LnDnp",
+      "sort_date": "1744889353133106",
+      "source": "f"
+     },
+     {
+      "token": "AaA4tcwF",
+      "sort_date": "1744887494781462",
+      "source": "f"
+     },
+     {
+      "token": "wZ_PqGuO",
+      "sort_date": "1744887337058841",
+      "source": "f"
+     },
+     {
+      "token": "AaAoMJ7H",
+      "sort_date": "1744882409147655",
+      "source": "f"
+     }
+    ],
+    "jli": {
+     "cities": [
+      "1"
+     ],
+     "rent": {
+      "max": 30000000
+     },
+     "credit": {
+      "max": 500000000
+     },
+     "sort": {
+      "value": "sort_date"
+     },
+     "category": {
+      "value": "apartment-rent"
+     },
+     "districts": {
+      "vacancies": [
+       "82",
+       "143",
+       "145",
+       "49"
+      ]
+     }
+    },
+    "search_layer": "fulltext_t1",
+    "ads_banner": {
+     "auction_ids": [
+      "d77b7180-9329-4a69-8255-87342141a413"
+     ],
+     "ads": [
+      {
+       "auction_id": "d77b7180-9329-4a69-8255-87342141a413",
+       "ad_instance_id": "16168f5c-c7bc-4fdf-9070-ae1043a3feae",
+       "index": 6
+      },
+      {
+       "ad_instance_id": "potential",
+       "index": 19
+      }
+     ]
+    }
+   },
+   "item_type": {
+    "type": "POST_LIST_LOAD_PAGE"
+   }
+  },
+  "enabled": true
+ },
+ "search_bar": {
+  "bookmark": {
+   "toggle_action_log": {
+    "server_side_info": {
+     "item_type": {
+      "type": "SEARCH_BAR_BOOKMARKED_STATE_CHANGE_STATE"
+     }
+    },
+    "enabled": true
+   },
+   "enabled": true
+  }
+ },
+ "pagination": {
+  "has_next_page": true,
+  "data": {
+   "@type": "type.googleapis.com/post_list.PaginationData",
+   "last_post_date": "2025-04-17T09:33:29.147655Z",
+   "page": 1,
+   "layer_page": 1,
+   "search_uid": "e39d987c-4341-4688-aa67-e8f0b6f81152"
+  },
+  "is_first_page": true
+ },
+ "search_id": "7618278403b390e2f1a76e44bfcafff9",
+ "seo_details": {
+  "title": "بهترین گزینه\u200cهای رهن و اجاره آپارتمان و خانه در پونک و ۳ محلهٔ دیگر تهران | دیوار",
+  "description": "بهترین پیشنهادها برای اجاره و رهن آپارتمان، خانه و سوییت در پونک و ۳ محلهٔ دیگر تهران را در دیوار پیدا کنید.",
+  "headline": "اجاره و رهن آپارتمان، خانه و سوییت در پونک و ۳ محلهٔ دیگر تهران",
+  "robots_metadata": {
+   "follow": true
+  },
+  "bread_crumb": [
+   {
+    "name": "آپارتمان",
+    "search_data": {
+     "form_data": {
+      "data": {
+       "category": {
+        "str": {
+         "value": "apartment-rent"
+        }
+       },
+       "districts": {
+        "repeated_string": {
+         "value": [
+          "82"
+         ]
+        }
+       }
+      }
+     }
+    }
+   },
+   {
+    "name": "اجارهٔ مسکونی",
+    "search_data": {
+     "form_data": {
+      "data": {
+       "category": {
+        "str": {
+         "value": "residential-rent"
+        }
+       },
+       "districts": {
+        "repeated_string": {
+         "value": [
+          "82"
+         ]
+        }
+       }
+      }
+     }
+    }
+   },
+   {
+    "name": "املاک",
+    "search_data": {
+     "form_data": {
+      "data": {
+       "category": {
+        "str": {
+         "value": "real-estate"
+        }
+       },
+       "districts": {
+        "repeated_string": {
+         "value": [
+          "82"
+         ]
+        }
+       }
+      }
+     }
+    }
+   },
+   {
+    "name": "پونک",
+    "search_data": {
+     "form_data": {
+      "data": {
+       "districts": {
+        "repeated_string": {
+         "value": [
+          "82"
+         ]
+        }
+       }
+      }
+     }
+    }
+   },
+   {
+    "name": "تهران",
+    "search_data": {
+     "form_data": {}
+    }
+   },
+   {
+    "name": "دیوار"
+   }
+  ]
+ },
+ "fab_button": {
+  "widget_type": "FAB_BUTTON",
+  "data": {
+   "@type": "type.googleapis.com/widgets.FabButtonData",
+   "button": {
+    "title": "نمایش آگهی\u200cها روی نقشه",
+    "action": {
+     "type": "OPEN_WEB_PAGE",
+     "payload": {
+      "@type": "type.googleapis.com/widgets.OpenWebPagePayload",
+      "link": "https://divar.ir/map?bbox=51.2969513%2C35.7511024%2C51.5164948%2C35.8188591&category=apartment-rent&credit=-500000000&districts=82%2C143%2C145%2C49&rent=-30000000&sort=sort_date&unique_app_id=V2ViLURldmljZS1JZC0yNWU3YmI0ZS0xZjc3LTQ0ODItYTQ2YS1mNGZlODQ0NGU2MmY%3D&utm_source=web",
+      "nofollow": true
+     }
+    },
+    "icon": {
+     "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_primary/map_view.png",
+     "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_primary/map_view.png",
+     "icon_name": "MAP_VIEW",
+     "icon_color": "ICON_PRIMARY"
+    }
+   },
+   "consider_sidebar": true
+  },
+  "action_log": {
+   "server_side_info": {
+    "info": {
+     "@type": "type.googleapis.com/action_log.MapViewFloatingActionButtonInfo",
+     "source_page": "POST_LIST_PAGE",
+     "jli_list": [
+      {
+       "sort": {
+        "value": "sort_date"
+       },
+       "category": {
+        "value": "apartment-rent"
+       },
+       "districts": {
+        "vacancies": [
+         "82",
+         "143",
+         "145",
+         "49"
+        ]
+       },
+       "cities": [
+        "1"
+       ],
+       "rent": {
+        "max": 30000000
+       },
+       "credit": {
+        "max": 500000000
+       }
+      }
+     ]
+    },
+    "item_type": {
+     "type": "MAP_VIEW_FLOATING_ACTION_BUTTON"
+    }
+   },
+   "enabled": true
+  }
+ }
+}
