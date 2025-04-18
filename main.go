@@ -33,6 +33,11 @@ func main() {
 		panic(err)
 	}
 
+	msg := tgbotapi.NewMessage(ChatID, "bot started")
+	if _, err := bot.Send(msg); err != nil {
+		fmt.Println("Error sending message:", err)
+	}
+
 	bot.Debug = false
 
 	for {
