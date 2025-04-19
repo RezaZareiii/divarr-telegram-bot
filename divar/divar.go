@@ -35,6 +35,21 @@ func Search(page int) ([]PostRowData, error) {
 		"search_data": map[string]interface{}{
 			"form_data": map[string]interface{}{
 				"data": map[string]interface{}{
+					"building-age": map[string]interface{}{
+						"number_range": map[string]interface{}{
+							"maximum": 15,
+						},
+					},
+					"parking": map[string]interface{}{
+						"boolean": map[string]interface{}{
+							"value": true,
+						},
+					},
+					"rooms": map[string]interface{}{
+						"repeated_string": map[string]interface{}{
+							"value": []string{"دو"},
+						},
+					},
 					"credit": map[string]interface{}{
 						"number_range": map[string]interface{}{
 							"maximum": 600000000,
@@ -43,6 +58,11 @@ func Search(page int) ([]PostRowData, error) {
 					"rent": map[string]interface{}{
 						"number_range": map[string]interface{}{
 							"maximum": 31000000,
+						},
+					},
+					"size": map[string]interface{}{
+						"number_range": map[string]interface{}{
+							"minimum": 60,
 						},
 					},
 					"districts": map[string]interface{}{
