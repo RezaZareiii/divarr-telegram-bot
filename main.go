@@ -106,7 +106,7 @@ func fetchNewlyAddedPosts() ([]divar.PostRowData, error) {
 
 	posts := make([]divar.PostRowData, 0, 200)
 
-	for i := 0; i < 10; i++ {
+	for i := 0; i < 20; i++ {
 		np, err := divar.Search(i + 1)
 		if err != nil {
 			return nil, err
